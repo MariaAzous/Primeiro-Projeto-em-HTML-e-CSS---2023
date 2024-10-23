@@ -1,0 +1,28 @@
+body{background-color:#b2e2e4cf;border-style:solid;
+    border-width:5px;width:60%;border-color:#0E2038;
+    margin-left:20%;margin-right:20%}
+nav ul{font-size:100%}
+nav ul{list-style:none}
+nav ul li{display:inline;border-style:solid}
+nav ul a{color:#2b5083;text-decoration:none;padding:4px}
+nav ul a:hover{color:#000000}
+.borda{border-style:solid;border-width:5px;border-color:#0E2038; text-align:center}
+div#slogo img{
+    max-width:170px;
+    position:absolute;
+    float:left;
+    top:20px;
+    padding:20px}    
+h2{font-size:50px;color:#469fcb}
+h1{position:center}
+h3{font-size:25px;}
+p{font-size:20px}
+div#destino ul{list-style:none}
+div#destino a{color:#438572cd;font-size:20px}
+div#destino a:hover{color:#41af90aa}
+.turi{text-decoration: underline}
+div#prom{color:#971414b8;font-size:22px}
+
+
+ 
+.tamanho{}
